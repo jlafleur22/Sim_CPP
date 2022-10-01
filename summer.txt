@@ -1,0 +1,14 @@
+$Welcome to your new farm! For your first season, you have a budget of $
+Which crop do you want to plant for your summer season? Enter the number of the crop
+you choose from the list below:
+
+1. Hay, planting costs: $100.00
+2. Blueberries, planting costs: $150.00
+3. Strawberries, planting costs: $200.00
+
+*Hay|-100.00|1000.00
+*Blueberries|-150.00|800.00
+*Strawberries|-200.00|950.00
+~
+I like your style.
+Initial planting went great. What's this, something major has happened.

@@ -1,0 +1,15 @@
+You've made it through summer and into fall. According to a USDA report in 2016, over 50% of 
+$first time farmers fail, so good job! Your budget for this season is: $
+
+Which crop would you like to plant?
+
+1. Apples, planting costs: $400.00
+2. Pumpkins, planting costs: $350.00
+3. Oranges, planting costs: $600.00
+
+*Apples|-400.00|1000.00
+*Pumpkins|-350.00|800.00
+*Oranges|-600.00|950.00
+~
+Great Choice!
+Things on your farm have been progressing well, but something just happened!

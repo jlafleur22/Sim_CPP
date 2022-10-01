@@ -1,0 +1,15 @@
+You've made it through Winter and into Spring. This is impressive. One more season and you'll   
+$make it to the end. Your budget for this season is: $
+
+Which crop would you like to plant?
+
+1. Watermelon, planting costs: $600.00
+2. Cucumbers,planting costs: $350.00
+3. Peppers,planting costs: $300.00
+
+*Watermelon|-600.00|800.00
+*Cucumbers|-350.00|600.00
+*Peppers|-300.00|750.00
+~
+Excellent!
+You planted the seeds, but something unexpected has occurred.!

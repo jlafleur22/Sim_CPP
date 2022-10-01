@@ -1,0 +1,14 @@
+$You have made it into winter! You are impressive. You have a current budget of $
+Which animal do you want to raise for your winter season? Enter the number of the animal
+you choose from the list below:
+
+1. Sheep, feeding and sheering costs: $700.00
+2. Dairy Cows, feeding and milking: $650.00
+3. Horses, feeding costs: $1000.00
+
+*Sheep|-700.00|1000.00
+*Cows|-650.00|900.00
+*Horses|-1000.00|950.00
+~
+I love it.
+Your animals are settled in now. Oh no, what's going on now?

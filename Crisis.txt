@@ -1,0 +1,20 @@
+summer|Scorching Heat has reduced your crops to ash!|-600.00
+summer|Severe Drought has wreaked havoc on your land! You lose|-250.00
+summer|Gas prices have increased dramatically! To run your equipment this year it's going to cost you an additional|350.00
+summer|The dreaded summer frost has hit your land! You lose|-500.00
+summer|You took your family on a summer vacation to the beach. Reenergized, you actually harvest faster than ever before. You make an extra|250.00
+fall|Early Frost! An early frost ruined your animal feed. You'll have to buy more from someone else now.|-300.00
+fall|Your hay was rolled wrong. Mildew has destroyed it.|-450.00
+fall|Your tractor broke down. Time to get it fixed.|-350.00
+fall|This is the best fall weather on record. Your harvest makes an extra|400.00
+fall|Wood beetles have infected your trees. You lose|-500.00
+winter|Termites! You'll have to pay an exterminator and repair the frame of your house|-450.00
+winter|Your animals are sick. The Veterinarian costs|-950.00
+winter|The roof collapsed on your barn. All your animals have perished.|-750.00
+winter|You have dysentery. Good thing you're not on the Oregon trail. Your Doctors bill is|-600.00
+winter|A blizzard has come through. Your sheep grew extra wool. You actually make|199.00
+spring|You stared at the sun during a Solar Eclipse. Your Doctor bill is|-270.00
+spring|Late Thaw! You can't get your crops in the ground. This will set you back|-110.00
+spring|Too much rain! Your ground is so flooded the seeds have washed away. Time to get some more.|-150.00
+spring|Drought! You can't get enough water for your crops.|-200.00
+spring|Best Spring ever. You get|-50.00
